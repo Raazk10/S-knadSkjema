@@ -11,6 +11,10 @@
 	color: #ffffff;
 	
 }
+*:focus{
+	outline: none;
+	box-shadow: 0 0 0 0.5rem rgba(39, 208, 98, 0.5);
+}
 
 html{
 	/* 10px / 16px = 0.625 = 62.5% */
